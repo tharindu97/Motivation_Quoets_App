@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961356468695",
+    "firebase_url": "https://quotes-246e8.firebaseio.com",
+    "project_id": "quotes-246e8",
+    "storage_bucket": "quotes-246e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961356468695:android:fadea830f8f2a1296efb92",
+        "android_client_info": {
+          "package_name": "com.example.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961356468695-4lbkaqjbokn3f0s52sae8i45rg82k7gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MxwjaH6-vvnATbcQ7cdmbIemOD0lYxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961356468695-4lbkaqjbokn3f0s52sae8i45rg82k7gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
